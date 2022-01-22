@@ -17,9 +17,9 @@ import java.io.*;
 import java.util.Hashtable;
 
 /**
- * QRCode calculator that generates QRCode storing it as a image with the type of file you prefer.
+ * QRCode generator that generates QRCode storing it as a image with the type of file you prefer.
  */
-public class QrCodeCalculator {
+public class QrCodeGenerator {
 
     /**
      * Creates the QRCode that contains the specified string with the specified name and the specified type of file.
